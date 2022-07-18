@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+*.zip
+main
+config_dump.json
 
 # Test binary, built with `go test -c`
 *.test
